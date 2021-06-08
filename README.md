@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @stedel
 - 👀 I’m interested in Web Development with Angular + TypeScript + ASP.NET Core and game development with unity.
 - 🌱 I’m currently learning static site generation with Hugo.
-<!-- - 💞️ I’m looking to collaborate on -->
 - 📫 Reach me at discord: stedel#6196.
 
 <!---
