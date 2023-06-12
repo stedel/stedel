@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stedel
-- 👀 I’m interested in Web Development with Angular + TypeScript + ASP.NET Core.
-- 🌱 I’m currently learning static site generation with Hugo.
-- 📫 Reach me at discord: stedel#6196.
+- 👀 I use Angular + TypeScript + ASP.NET Core.
+- 🌱 I’m currently using hugo for static site generation for some hobby projects.
+- 📫 Reach me at discord: `stedel`.
 
   [![Stedel's GitHub stats](https://github-readme-stats.vercel.app/api?username=stedel&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
  
